@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.AssemblyInfo.cs
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.exe
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.deps.json
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.runtimeconfig.json
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.dll
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.pdb
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.dll
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.pdb
+C:\Users\opilane\source\repos\AlfaMIM\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.genruntimeconfig.cache
